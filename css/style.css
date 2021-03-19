@@ -1,0 +1,23 @@
+header{
+  background-color:crimson;
+}
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  h2{
+    background-color:rgb(255, 196, 0);
+  }
+
+  .button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+  }
